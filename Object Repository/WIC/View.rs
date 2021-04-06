@@ -6,12 +6,11 @@
    <elementGuidId>809bedb0-a209-457a-995e-a00214626d87</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/form/div[3]/div[2]/div[3]/div/div[2]/table[16]/tbody</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;treeview-1021-record-325&quot;]/tbody</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
